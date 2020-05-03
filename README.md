@@ -1,5 +1,8 @@
 # Chicago Taxi Data Visualization
 
+## Hosted
+The app is currently hosted at http://chicago-dash.herokuapp.com/
+
 ## About this app
 
 This is a data visualization of [Chicago Taxi Data](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew/data).
